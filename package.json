@@ -1,6 +1,6 @@
 {
   "name": "librarytd5",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "LibraryTD5",
   "main": "index.js",
   "scripts": {
